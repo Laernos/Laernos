@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a 3rd year Computer Science student at [@UConn](https://uconn.edu/) passionate about web development and artificial intelligence.
+I’m passionate about web development and artificial intelligence, with a focus on building creative, scalable, and user-focused software.
 
 - 👀 **Currently seeking**: Full-time opportunities
 - 🌱 **Interests**: Web development and AI, constantly learning and exploring new technologies
