@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Alper! - Senior Computer Science Student [@UConn](https://uconn.edu/)!
-
-![Profile Views](https://komarev.com/ghpvc/?username=laernos&color=brightgreen)
-
 ## About Me
 
 I’m passionate about web development and artificial intelligence, with a focus on building creative, scalable, and user-focused software.
