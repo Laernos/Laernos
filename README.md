@@ -5,4 +5,3 @@ I’m passionate about web development and artificial intelligence, with a focus
 - 👀 **Currently seeking**: Full-time opportunities
 - 🌱 **Interests**: Web development and AI, constantly learning and exploring new technologies
 - 🏎️ **Hobbies**: Attending car shows and racing events
-- 🌐 **Website**: [alpertepebas.com](http://alpertepebas.com) - Learn more about me and my work
